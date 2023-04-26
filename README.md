@@ -1,1 +1,1 @@
-# ELEC278
+# ELEC278: Labs
