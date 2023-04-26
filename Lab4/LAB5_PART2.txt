@@ -1,0 +1,11 @@
+Lastname,       FirstName       Dataset size:      1000
+                RANDOM                              ASCENDING                          DESCENDING
+Sort            Elapsed Time    Number of Swaps     Elapsed Time    Number of Swaps    Elapsed Time    Number of Swaps
+Bubble Sort     12              244946              0               0                  3               499500
+Insertion Sort  1               244946              0               0                  2               499500
+Heap Sort       0               9083                0               9709               0               8317
+Merge Sort      0               244                 1               0                  0               488
+Quick Sort      0               2385                0               999                2               999
+Selec Sort Itr  8               999                 2               999                12              999
+Selec Sort Rcr  12              999                 2               999                2               999
+Shell Sort      0               7474                0               0                  0               4700

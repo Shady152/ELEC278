@@ -1,0 +1,164 @@
+//LAB5_PART1.txt - Lab 5
+File RANDOM.TXT      contains 30 data items
+==Check array before sort
+Sort check failed at position 0
+a[0] = 160606050, a[1] = 145132638
+    Array is unsorted
+Quicksort
+
+Quicksort: left = 0   right = 29
+Partition around value in position 0 - 160606050
+    Completed partition, pivot at: 13
+                                                                    V
+ 4186446 145132638 5794964 96196698 16310634 93603042 41267109 40950348 5548791 20370288 84325088 75158775 107029096 160606050 334648425 166296725 612375368 167073539 193931034 355668549
+
+Quicksort: left = 0   right = 12
+Partition around value in position 0 - 4186446
+    Completed partition, pivot at: 0
+   V
+ 4186446 145132638 5794964 96196698 16310634 93603042 41267109 40950348 5548791 20370288 84325088 75158775 107029096 160606050 334648425 166296725 612375368 167073539 193931034 355668549
+
+Quicksort: left = 0   right = -1
+
+Quicksort: left = 1   right = 12
+Partition around value in position 1 - 145132638
+    Completed partition, pivot at: 12
+                                                               V
+ 4186446 107029096 5794964 96196698 16310634 93603042 41267109 40950348 5548791 20370288 84325088 75158775 145132638 160606050 334648425 166296725 612375368 167073539 193931034 355668549
+
+Quicksort: left = 1   right = 11
+Partition around value in position 1 - 107029096
+    Completed partition, pivot at: 11
+                                                          V
+ 4186446 75158775 5794964 96196698 16310634 93603042 41267109 40950348 5548791 20370288 84325088 107029096 145132638 160606050 334648425 166296725 612375368 167073539 193931034 355668549
+
+Quicksort: left = 1   right = 10
+Partition around value in position 1 - 75158775
+    Completed partition, pivot at: 7
+                                      V
+ 4186446 40950348 5794964 20370288 16310634 5548791 41267109 75158775 93603042 96196698 84325088 107029096 145132638 160606050 334648425 166296725 612375368 167073539 193931034 355668549
+
+Quicksort: left = 1   right = 6
+Partition around value in position 1 - 40950348
+    Completed partition, pivot at: 5
+                            V
+ 4186446 5548791 5794964 20370288 16310634 40950348 41267109 75158775 93603042 96196698 84325088 107029096 145132638 160606050 334648425 166296725 612375368 167073539 193931034 355668549
+
+Quicksort: left = 1   right = 4
+Partition around value in position 1 - 5548791
+    Completed partition, pivot at: 1
+        V
+ 4186446 5548791 5794964 20370288 16310634 40950348 41267109 75158775 93603042 96196698 84325088 107029096 145132638 160606050 334648425 166296725 612375368 167073539 193931034 355668549
+
+Quicksort: left = 1   right = 0
+
+Quicksort: left = 2   right = 4
+Partition around value in position 2 - 5794964
+    Completed partition, pivot at: 2
+             V
+ 4186446 5548791 5794964 20370288 16310634 40950348 41267109 75158775 93603042 96196698 84325088 107029096 145132638 160606050 334648425 166296725 612375368 167073539 193931034 355668549
+
+Quicksort: left = 2   right = 1
+
+Quicksort: left = 3   right = 4
+Partition around value in position 3 - 20370288
+    Completed partition, pivot at: 4
+                       V
+ 4186446 5548791 5794964 16310634 20370288 40950348 41267109 75158775 93603042 96196698 84325088 107029096 145132638 160606050 334648425 166296725 612375368 167073539 193931034 355668549
+
+Quicksort: left = 3   right = 3
+
+Quicksort: left = 5   right = 4
+
+Quicksort: left = 6   right = 6
+
+Quicksort: left = 8   right = 10
+Partition around value in position 8 - 93603042
+    Completed partition, pivot at: 9
+                                                V
+ 4186446 5548791 5794964 16310634 20370288 40950348 41267109 75158775 84325088 93603042 96196698 107029096 145132638 160606050 334648425 166296725 612375368 167073539 193931034 355668549
+
+Quicksort: left = 8   right = 8
+
+Quicksort: left = 10   right = 10
+
+Quicksort: left = 12   right = 11
+
+Quicksort: left = 13   right = 12
+
+Quicksort: left = 14   right = 29
+Partition around value in position 14 - 334648425
+    Completed partition, pivot at: 21
+                                                                                                            V
+ 4186446 5548791 5794964 16310634 20370288 40950348 41267109 75158775 84325088 93603042 96196698 107029096 145132638 160606050 199720944 166296725 221922945 167073539 193931034 242249470
+
+Quicksort: left = 14   right = 20
+Partition around value in position 14 - 199720944
+    Completed partition, pivot at: 17
+                                                                                        V
+ 4186446 5548791 5794964 16310634 20370288 40950348 41267109 75158775 84325088 93603042 96196698 107029096 145132638 160606050 167073539 166296725 193931034 199720944 221922945 242249470
+
+Quicksort: left = 14   right = 16
+Partition around value in position 14 - 167073539
+    Completed partition, pivot at: 15
+                                                                              V
+ 4186446 5548791 5794964 16310634 20370288 40950348 41267109 75158775 84325088 93603042 96196698 107029096 145132638 160606050 166296725 167073539 193931034 199720944 221922945 242249470
+
+Quicksort: left = 14   right = 14
+
+Quicksort: left = 16   right = 16
+
+Quicksort: left = 18   right = 20
+Partition around value in position 18 - 221922945
+    Completed partition, pivot at: 18
+                                                                                             V
+ 4186446 5548791 5794964 16310634 20370288 40950348 41267109 75158775 84325088 93603042 96196698 107029096 145132638 160606050 166296725 167073539 193931034 199720944 221922945 242249470
+
+Quicksort: left = 18   right = 17
+
+Quicksort: left = 19   right = 20
+Partition around value in position 19 - 242249470
+    Completed partition, pivot at: 20
+                                                                                                       V
+ 4186446 5548791 5794964 16310634 20370288 40950348 41267109 75158775 84325088 93603042 96196698 107029096 145132638 160606050 166296725 167073539 193931034 199720944 221922945 239375397
+
+Quicksort: left = 19   right = 19
+
+Quicksort: left = 21   right = 20
+
+Quicksort: left = 22   right = 29
+Partition around value in position 22 - 730154745
+    Completed partition, pivot at: 28
+                                                                                                                                               V
+ 4186446 5548791 5794964 16310634 20370288 40950348 41267109 75158775 84325088 93603042 96196698 107029096 145132638 160606050 166296725 167073539 193931034 199720944 221922945 239375397
+
+Quicksort: left = 22   right = 27
+Partition around value in position 22 - 477866032
+    Completed partition, pivot at: 25
+                                                                                                                                V
+ 4186446 5548791 5794964 16310634 20370288 40950348 41267109 75158775 84325088 93603042 96196698 107029096 145132638 160606050 166296725 167073539 193931034 199720944 221922945 239375397
+
+Quicksort: left = 22   right = 24
+Partition around value in position 22 - 369324983
+    Completed partition, pivot at: 23
+                                                                                                                      V
+ 4186446 5548791 5794964 16310634 20370288 40950348 41267109 75158775 84325088 93603042 96196698 107029096 145132638 160606050 166296725 167073539 193931034 199720944 221922945 239375397
+
+Quicksort: left = 22   right = 22
+
+Quicksort: left = 24   right = 24
+
+Quicksort: left = 26   right = 27
+Partition around value in position 26 - 612375368
+    Completed partition, pivot at: 27
+                                                                                                                                          V
+ 4186446 5548791 5794964 16310634 20370288 40950348 41267109 75158775 84325088 93603042 96196698 107029096 145132638 160606050 166296725 167073539 193931034 199720944 221922945 239375397
+
+Quicksort: left = 26   right = 26
+
+Quicksort: left = 28   right = 27
+
+Quicksort: left = 29   right = 29
+End time: 62  Start time:  0  Diff: 62
+==After sort, array is sorted
+Swaps:  37  CPU time:  62

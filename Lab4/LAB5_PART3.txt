@@ -1,0 +1,4 @@
+                                 Size f Dataset:    50000
+                                 Elapsed time       Number of Swaps
+Original Quick Sort              11                 381095
+Modified Quick Sort              7                  185808
